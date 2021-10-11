@@ -1,0 +1,9 @@
+{
+  "environments": {
+    "default": {
+      "profile": "DEFAULT",
+      "workspace_dir": "/Shared/dbx/db_cicd_github_demo",
+      "artifact_location": "dbfs:/Shared/dbx/projects/db_cicd_github_demo"
+    }
+  }
+}

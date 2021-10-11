@@ -1,0 +1,4 @@
+{
+  "output_format": "delta",
+  "output_path": "dbfs:/dbx/tmp/test/db_cicd_github_demo"
+}
